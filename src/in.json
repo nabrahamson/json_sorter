@@ -1,0 +1,36 @@
+[
+  {
+    "topic": "one",
+    "data": {
+      "value1": "lorem ipsum",
+      "value2": "lorem demmit"
+    }
+  },
+  {
+    "topic": "two",
+    "data": {"value1": "some data"}
+  },
+  {
+    "topic": "one",
+    "data": {"value1": "more data"}
+  },
+  {
+    "topic": "four",
+    "data": {"value2": 123}
+  },
+  {
+    "topic": "two",
+    "data": {"pot": "black"}
+  },
+  {
+    "topic": "three",
+    "data": {"kettle": "black"}
+  },
+  {
+    "topic": "four",
+    "data": {"food": "vegan"}
+  },
+  { "topic": "four",
+    "data": {"pickles": "sour"}
+  }
+]
